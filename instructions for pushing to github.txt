@@ -1,0 +1,6 @@
+step 1: put game executable into folder
+step 2: open powershell in the folder
+step 3: run these commands in order:
+git add .
+git commit -m "insert description here"
+git push
